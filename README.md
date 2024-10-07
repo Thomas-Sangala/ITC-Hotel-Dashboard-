@@ -1,9 +1,9 @@
 # ITC Hotels Revenue Optimization
 
-Problem Statement :-
+# Problem Statement :-
 ITC Hotels is a luxury hotel chain that operates multiple properties with diverse room categories and varying occupancy rates. The company wants to gain deeper insights into its overall financial performance, customer booking behavior, occupancy trends, and room category performance to optimize revenue generation, minimize cancellations, and enhance customer satisfaction. The goal of this project is to create an interactive, multi-page Power BI dashboard to provide stakeholders with real-time insights for decision-making.
 
-Project Aim :-
+# Project Aim :-
 Key Problem Areas to Address:
 
 Page 1: Financial Overview & Revenue Performance
